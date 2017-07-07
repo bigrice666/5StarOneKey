@@ -1,10 +1,11 @@
 # 5StarOneKey
 根据JQ的代码修改而来。改成了我常用的以下几种打分方式：
-{button:"Five Star", total:5, name:5, history:5, unique:5, location:5, safety:5},
-{button:"555535", total:5, name:5, history:5, unique:5, location:3, safety:5},
-{button:"555335", total:5, name:5, history:5, unique:3, location:3, safety:5},
-{button:"553535", total:5, name:5, history:3, unique:5, location:3, safety:5},
-{button:"553335", total:5, name:5, history:3, unique:3, location:3, safety:5},
+1、全五星
+2、555535
+3、555335
+4、553535
+5、553335
+
 
 使用教程
 -------------
